@@ -22,5 +22,5 @@ for i in range(1,number+1):
         print("{} is a prime number.".format(i))
         add+=1
 
-print("There are {} prime numbers from 1 to {}".format(add,number))
+print("hello friend there are {} prime numbers from 1 to {}".format(add,number))
 
